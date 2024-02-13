@@ -1,0 +1,27 @@
+_repo: Lo-Stato-e-l-istruzione-pubblica-nell-Impero-Romano_72900
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Barbagallo, Corrado
+    gutenberg_agent_id: '56853'
+    url: http://www.gutenberg.org/2009/agents/56853
+description: ''
+gutenberg_issued: '2024-02-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72900'
+language: it
+pgterms:marc904: https://archive.org/details/lostatoelistruzi00barbuoft
+pgterms:marc905: 20230104043245barbagallo
+pgterms:marc906: '1911'
+pgterms:marc907: IT
+production_note: Barbara Magni and the Online Distributed Proofreading Team at http://www.pgdp.net
+  (This file was produced from images made available by The Internet Archive)
+publication_note: '  $aCatania :$bBattiato, $c1911.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Lo Stato e l'istruzione pubblica nell'Impero Romano
+url: http://www.gutenberg.org/ebooks/72900
