@@ -1,11 +1,16 @@
 _repo: Lo-Stato-e-l-istruzione-pubblica-nell-Impero-Romano_72900
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72900-h/images/cover.jpg
 creator:
   author:
     agent_name: Barbagallo, Corrado
     gutenberg_agent_id: '56853'
     url: http://www.gutenberg.org/2009/agents/56853
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72900#Lo-Stato-e-l-istruzione-pubblica-nell-Impero-Romano
 gutenberg_issued: '2024-02-08'
 gutenberg_type: Text
 identifiers:
